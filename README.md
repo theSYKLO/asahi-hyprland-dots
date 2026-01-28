@@ -1,6 +1,6 @@
 ## Before using this repo
 this repository is for having a fast fresh install of fedora asahi remix <br/>
-this repo and every dot file is made with personal use in mind so use this repo with this in mind
+this repo and every dot file is made for personal use so use this repo with this in mind
 
 ## Take a look at the final result
 ![how it's look without any apps open](./Screenshots/empty.png?raw=true)
