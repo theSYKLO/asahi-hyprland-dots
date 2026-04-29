@@ -12,7 +12,7 @@ this repo and every dot file is made for personal use so use this repo with this
 2. Fedora Asahi remix (for install script configs are usable)
 
 > [!CAUTION]
-> 1. this repo is created for asahi linux and I don't guarantee it will work on Fedora but you can try it.
+> 1. this repo is created for asahi linux and I don't guarantee it will work on Fedora but you can try it. :)
 
 ## Setup
 for this you just need to run `install.sh` use the fallowing command to install: <br/>
