@@ -1,6 +1,6 @@
 ## Before using this repo
-this repository is for having a fast fresh install of fedora asahi remix <br/>
-this repo and every dot file is made for personal use so use this repo with this in mind
+this repo was for my every day use so you might find some shortcuts and keybinds unusual. <br>
+dot files haven't been updated for a while because I don't use linux on mac anymore. but when I get back I probably test and see if this have any problem with new fedora 44 and new updates. hope you enjoy this look as much as I did.
 
 ## Take a look at the final result
 ![how it's look without any apps open](./Screenshots/empty.png?raw=true)
@@ -8,8 +8,7 @@ this repo and every dot file is made for personal use so use this repo with this
 ![after opening some apps](./Screenshots/appsOpen.png?raw=true)
 
 ## Prerequisites
-1. git
-2. Fedora Asahi remix (for install script configs are usable)
+1. git (Optional: you can just download the repo manually)
 
 > [!CAUTION]
 > 1. this repo is created for asahi linux and I don't guarantee it will work on Fedora but you can try it. :)
