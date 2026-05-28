@@ -47,7 +47,7 @@ echo "📦 Installing Galaxy Buds Client via Flatpak..."
 flatpak install -y --noninteractive flathub me.timschneeberger.GalaxyBudsClient
 
 echo "🚀 Enabling Hyprland COPR repo..."
-sudo dnf copr enable solopasha/hyprland -y
+sudo dnf copr enable lionheartp/Hyprland -y
 
 echo "📦 Installing Hyprland and related packages..."
 sudo dnf install -y hyprland nm-applet dunst qt6ct warp-taskbar wl-clipboard waybar-git kitty aquamarine hyprgraphics hypridle hyprlang hyprlock hyprland-qt-support hyprland-qtutils hyprpaper hyprpicker hyprcursor hyprpolkitagent hyprshot hyprsunset hyprsysteminfo hyprutils xdg-desktop-portal-hyprland --skip-unavailable --best  2>&1 | tee hypr-install.log
