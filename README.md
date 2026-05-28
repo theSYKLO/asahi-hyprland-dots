@@ -1,6 +1,7 @@
 ## Before using this repo
 this repo was for my every day use so you might find some shortcuts and keybinds unusual. <br>
-dot files haven't been updated for a while because I don't use linux on mac anymore. but when I get back I probably test and see if this have any problem with new fedora 44 and new updates. hope you enjoy this look as much as I did.
+it is pre-lua, I've been away from linux so this repo kinda got outdated but as you can see I just started updating it again :D <br>
+there is a chance of changing my main window manager but in that case I will keep this one running and updated (at least as much as possible) so don't worry
 
 ## Take a look at the final result
 ![how it's look without any apps open](./Screenshots/empty.png?raw=true)
